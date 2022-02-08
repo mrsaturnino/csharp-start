@@ -1,0 +1,1 @@
+Este é um programa que solicita o nome, sexo, idade e altura e descobre se você é homem ou garoto, mulher ou garota.

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\bin\Debug\net6.0\pratica-idades-e-nomes.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\bin\Debug\net6.0\pratica-idades-e-nomes.deps.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\bin\Debug\net6.0\pratica-idades-e-nomes.runtimeconfig.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\bin\Debug\net6.0\pratica-idades-e-nomes.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\bin\Debug\net6.0\ref\pratica-idades-e-nomes.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\bin\Debug\net6.0\pratica-idades-e-nomes.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\obj\Debug\net6.0\pratica-idades-e-nomes.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\obj\Debug\net6.0\pratica-idades-e-nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\obj\Debug\net6.0\pratica-idades-e-nomes.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\obj\Debug\net6.0\pratica-idades-e-nomes.AssemblyInfo.cs
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\obj\Debug\net6.0\pratica-idades-e-nomes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\obj\Debug\net6.0\pratica-idades-e-nomes.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\obj\Debug\net6.0\ref\pratica-idades-e-nomes.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\obj\Debug\net6.0\pratica-idades-e-nomes.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-victor-lima\pratica-idades-e-nomes\obj\Debug\net6.0\pratica-idades-e-nomes.genruntimeconfig.cache
