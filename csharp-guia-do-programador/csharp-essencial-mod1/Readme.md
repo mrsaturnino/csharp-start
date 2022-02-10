@@ -1,4 +1,4 @@
-Neste primeiro módulo, estou aprendendo e documentando meu aprendizado sobre o essencial sobre a linguagem C#.
+Neste primeiro módulo, estou aprendendo e documentando meu aprendizado sobre o essencial da linguagem C#.
 
 Na maioria dos arquivos eu estarei comentando o código para auxiliar no entendimento!
 
