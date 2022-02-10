@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\obj\Debug\net6.0\aula-enum.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\obj\Debug\net6.0\aula-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\obj\Debug\net6.0\aula-enum.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\obj\Debug\net6.0\aula-enum.AssemblyInfo.cs
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\obj\Debug\net6.0\aula-enum.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\bin\Debug\net6.0\aula-enum.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\bin\Debug\net6.0\aula-enum.deps.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\bin\Debug\net6.0\aula-enum.runtimeconfig.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\bin\Debug\net6.0\aula-enum.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\bin\Debug\net6.0\ref\aula-enum.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\bin\Debug\net6.0\aula-enum.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\obj\Debug\net6.0\aula-enum.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\obj\Debug\net6.0\ref\aula-enum.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\obj\Debug\net6.0\aula-enum.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum\obj\Debug\net6.0\aula-enum.genruntimeconfig.cache

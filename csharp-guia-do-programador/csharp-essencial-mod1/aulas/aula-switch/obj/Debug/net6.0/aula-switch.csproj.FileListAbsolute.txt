@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\bin\Debug\net6.0\aula-switch.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\bin\Debug\net6.0\aula-switch.deps.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\bin\Debug\net6.0\aula-switch.runtimeconfig.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\bin\Debug\net6.0\aula-switch.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\bin\Debug\net6.0\ref\aula-switch.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\bin\Debug\net6.0\aula-switch.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\obj\Debug\net6.0\aula-switch.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\obj\Debug\net6.0\aula-switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\obj\Debug\net6.0\aula-switch.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\obj\Debug\net6.0\aula-switch.AssemblyInfo.cs
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\obj\Debug\net6.0\aula-switch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\obj\Debug\net6.0\aula-switch.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\obj\Debug\net6.0\ref\aula-switch.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\obj\Debug\net6.0\aula-switch.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-switch\obj\Debug\net6.0\aula-switch.genruntimeconfig.cache
