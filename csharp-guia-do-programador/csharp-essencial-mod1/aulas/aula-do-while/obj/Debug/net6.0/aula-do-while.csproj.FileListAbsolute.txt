@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\bin\Debug\net6.0\aula-do-while.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\bin\Debug\net6.0\aula-do-while.deps.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\bin\Debug\net6.0\aula-do-while.runtimeconfig.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\bin\Debug\net6.0\aula-do-while.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\bin\Debug\net6.0\ref\aula-do-while.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\bin\Debug\net6.0\aula-do-while.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\obj\Debug\net6.0\aula-do-while.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\obj\Debug\net6.0\aula-do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\obj\Debug\net6.0\aula-do-while.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\obj\Debug\net6.0\aula-do-while.AssemblyInfo.cs
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\obj\Debug\net6.0\aula-do-while.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\obj\Debug\net6.0\aula-do-while.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\obj\Debug\net6.0\ref\aula-do-while.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\obj\Debug\net6.0\aula-do-while.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-do-while\obj\Debug\net6.0\aula-do-while.genruntimeconfig.cache

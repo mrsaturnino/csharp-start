@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\bin\Debug\net6.0\aula-foreach.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\bin\Debug\net6.0\aula-foreach.deps.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\bin\Debug\net6.0\aula-foreach.runtimeconfig.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\bin\Debug\net6.0\aula-foreach.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\bin\Debug\net6.0\ref\aula-foreach.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\bin\Debug\net6.0\aula-foreach.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\obj\Debug\net6.0\aula-foreach.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\obj\Debug\net6.0\aula-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\obj\Debug\net6.0\aula-foreach.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\obj\Debug\net6.0\aula-foreach.AssemblyInfo.cs
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\obj\Debug\net6.0\aula-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\obj\Debug\net6.0\aula-foreach.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\obj\Debug\net6.0\ref\aula-foreach.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\obj\Debug\net6.0\aula-foreach.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-foreach\obj\Debug\net6.0\aula-foreach.genruntimeconfig.cache
