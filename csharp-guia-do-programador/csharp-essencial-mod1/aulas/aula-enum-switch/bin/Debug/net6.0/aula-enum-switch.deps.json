@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "aula-enum-switch/1.0.0": {
+        "runtime": {
+          "aula-enum-switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula-enum-switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

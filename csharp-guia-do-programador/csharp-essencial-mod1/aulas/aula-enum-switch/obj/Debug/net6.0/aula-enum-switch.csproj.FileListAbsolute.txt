@@ -1,0 +1,30 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\aula-enum-switch.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\aula-enum-switch.deps.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\aula-enum-switch.runtimeconfig.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\aula-enum-switch.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\ref\aula-enum-switch.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\aula-enum-switch.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.AssemblyInfo.cs
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\ref\aula-enum-switch.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.genruntimeconfig.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\aula-enum-switch.exe
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\aula-enum-switch.deps.json
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\aula-enum-switch.runtimeconfig.json
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\aula-enum-switch.dll
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\ref\aula-enum-switch.dll
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\bin\Debug\net6.0\aula-enum-switch.pdb
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.csproj.AssemblyReference.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.GeneratedMSBuildEditorConfig.editorconfig
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.AssemblyInfoInputs.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.AssemblyInfo.cs
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.csproj.CoreCompileInputs.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.dll
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\ref\aula-enum-switch.dll
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.pdb
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-enum-switch\obj\Debug\net6.0\aula-enum-switch.genruntimeconfig.cache
