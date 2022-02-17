@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\bin\Debug\net6.0\ex-funcoes.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\bin\Debug\net6.0\ex-funcoes.deps.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\bin\Debug\net6.0\ex-funcoes.runtimeconfig.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\bin\Debug\net6.0\ex-funcoes.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\bin\Debug\net6.0\ref\ex-funcoes.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\bin\Debug\net6.0\ex-funcoes.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\obj\Debug\net6.0\ex-funcoes.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\obj\Debug\net6.0\ex-funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\obj\Debug\net6.0\ex-funcoes.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\obj\Debug\net6.0\ex-funcoes.AssemblyInfo.cs
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\obj\Debug\net6.0\ex-funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\obj\Debug\net6.0\ex-funcoes.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\obj\Debug\net6.0\ref\ex-funcoes.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\obj\Debug\net6.0\ex-funcoes.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\obj\Debug\net6.0\ex-funcoes.genruntimeconfig.cache

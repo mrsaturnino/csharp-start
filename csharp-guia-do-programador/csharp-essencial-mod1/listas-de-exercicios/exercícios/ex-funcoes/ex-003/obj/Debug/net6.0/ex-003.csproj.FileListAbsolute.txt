@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\bin\Debug\net6.0\ex-003.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\bin\Debug\net6.0\ex-003.deps.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\bin\Debug\net6.0\ex-003.runtimeconfig.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\bin\Debug\net6.0\ex-003.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\bin\Debug\net6.0\ref\ex-003.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\bin\Debug\net6.0\ex-003.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\obj\Debug\net6.0\ex-003.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\obj\Debug\net6.0\ex-003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\obj\Debug\net6.0\ex-003.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\obj\Debug\net6.0\ex-003.AssemblyInfo.cs
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\obj\Debug\net6.0\ex-003.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\obj\Debug\net6.0\ex-003.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\obj\Debug\net6.0\ref\ex-003.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\obj\Debug\net6.0\ex-003.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-funcoes\ex-003\obj\Debug\net6.0\ex-003.genruntimeconfig.cache
