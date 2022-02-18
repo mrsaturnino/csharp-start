@@ -1,0 +1,15 @@
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\bin\Debug\net6.0\ex-003.exe
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\bin\Debug\net6.0\ex-003.deps.json
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\bin\Debug\net6.0\ex-003.runtimeconfig.json
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\bin\Debug\net6.0\ex-003.dll
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\bin\Debug\net6.0\ex-003.pdb
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\obj\Debug\net6.0\ex-003.csproj.AssemblyReference.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\obj\Debug\net6.0\ex-003.GeneratedMSBuildEditorConfig.editorconfig
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\obj\Debug\net6.0\ex-003.AssemblyInfoInputs.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\obj\Debug\net6.0\ex-003.AssemblyInfo.cs
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\obj\Debug\net6.0\ex-003.csproj.CoreCompileInputs.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\obj\Debug\net6.0\ex-003.dll
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\obj\Debug\net6.0\refint\ex-003.dll
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\obj\Debug\net6.0\ex-003.pdb
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\obj\Debug\net6.0\ex-003.genruntimeconfig.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\listas-de-exercicios\exercícios\ex-repeticoes\ex-003\obj\Debug\net6.0\ref\ex-003.dll
