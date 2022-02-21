@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\bin\Debug\net6.0\calculadora-cmd.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\bin\Debug\net6.0\calculadora-cmd.deps.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\bin\Debug\net6.0\calculadora-cmd.runtimeconfig.json
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\bin\Debug\net6.0\calculadora-cmd.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\bin\Debug\net6.0\ref\calculadora-cmd.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\bin\Debug\net6.0\calculadora-cmd.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\obj\Debug\net6.0\calculadora-cmd.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\obj\Debug\net6.0\calculadora-cmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\obj\Debug\net6.0\calculadora-cmd.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\obj\Debug\net6.0\calculadora-cmd.AssemblyInfo.cs
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\obj\Debug\net6.0\calculadora-cmd.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\obj\Debug\net6.0\calculadora-cmd.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\obj\Debug\net6.0\ref\calculadora-cmd.dll
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\obj\Debug\net6.0\calculadora-cmd.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\projeto01\calculadora-cmd\obj\Debug\net6.0\calculadora-cmd.genruntimeconfig.cache

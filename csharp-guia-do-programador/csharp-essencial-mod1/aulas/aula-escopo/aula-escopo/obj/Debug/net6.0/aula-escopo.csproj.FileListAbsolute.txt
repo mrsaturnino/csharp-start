@@ -1,0 +1,15 @@
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\bin\Debug\net6.0\aula-escopo.exe
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\bin\Debug\net6.0\aula-escopo.deps.json
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\bin\Debug\net6.0\aula-escopo.runtimeconfig.json
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\bin\Debug\net6.0\aula-escopo.dll
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\bin\Debug\net6.0\aula-escopo.pdb
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\obj\Debug\net6.0\aula-escopo.csproj.AssemblyReference.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\obj\Debug\net6.0\aula-escopo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\obj\Debug\net6.0\aula-escopo.AssemblyInfoInputs.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\obj\Debug\net6.0\aula-escopo.AssemblyInfo.cs
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\obj\Debug\net6.0\aula-escopo.csproj.CoreCompileInputs.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\obj\Debug\net6.0\aula-escopo.dll
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\obj\Debug\net6.0\refint\aula-escopo.dll
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\obj\Debug\net6.0\aula-escopo.pdb
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\obj\Debug\net6.0\aula-escopo.genruntimeconfig.cache
+G:\Outros computadores\backup antigo\cursos\csharp\csharp-guia-do-programador\csharp-essencial-mod1\aulas\aula-escopo\aula-escopo\obj\Debug\net6.0\ref\aula-escopo.dll
