@@ -29,6 +29,14 @@
                     case Menu.Subtracao:
                         Sub();
                     break;
+
+                    case Menu.Divisao:
+                        Div();
+                    break;
+
+                    case Menu.Multiplicacao:
+                        Mult();
+                    break;
                 }
 
                 Console.Clear();
@@ -66,6 +74,42 @@
             int result = a - b;
             
             Console.WriteLine($"O resultado da subtração é: {result}");
+            
+            Console.WriteLine($"Aperte ENTER para voltar ao menu.");
+            Console.ReadLine();
+        }
+
+        static void Div()
+        {
+            Console.WriteLine("Divisão entre dois números");
+
+            Console.WriteLine("Digite o primeiro número: ");
+            int a = int.Parse(Console.ReadLine());   
+            
+            Console.WriteLine("Digite o segundo número: ");
+            int b = int.Parse(Console.ReadLine());
+
+            float result = (float)a / (float)b;
+            
+            Console.WriteLine($"O resultado da divisão é: {result}");
+            
+            Console.WriteLine($"Aperte ENTER para voltar ao menu.");
+            Console.ReadLine();
+        }
+
+        static void Mult()
+        {
+            Console.WriteLine("Multiplicação entre dois números");
+
+            Console.WriteLine("Digite o primeiro número: ");
+            int a = int.Parse(Console.ReadLine());   
+            
+            Console.WriteLine("Digite o segundo número: ");
+            int b = int.Parse(Console.ReadLine());
+
+            int result = a * b;
+            
+            Console.WriteLine($"O resultado da multiplicação é: {result}");
             
             Console.WriteLine($"Aperte ENTER para voltar ao menu.");
             Console.ReadLine();
