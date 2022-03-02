@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\struct_constructors\bin\Debug\struct_constructors.exe.config
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\struct_constructors\bin\Debug\struct_constructors.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\struct_constructors\bin\Debug\struct_constructors.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\struct_constructors\obj\Debug\struct_constructors.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\struct_constructors\obj\Debug\struct_constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\struct_constructors\obj\Debug\struct_constructors.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\struct_constructors\obj\Debug\struct_constructors.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\struct_constructors\obj\Debug\struct_constructors.pdb
