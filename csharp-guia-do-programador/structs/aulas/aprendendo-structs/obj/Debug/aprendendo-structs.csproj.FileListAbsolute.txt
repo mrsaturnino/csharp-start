@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\Nova pasta\aprendendo-structs\bin\Debug\aprendendo-structs.exe.config
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\Nova pasta\aprendendo-structs\bin\Debug\aprendendo-structs.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\Nova pasta\aprendendo-structs\bin\Debug\aprendendo-structs.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\Nova pasta\aprendendo-structs\obj\Debug\aprendendo-structs.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\Nova pasta\aprendendo-structs\obj\Debug\aprendendo-structs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\Nova pasta\aprendendo-structs\obj\Debug\aprendendo-structs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\Nova pasta\aprendendo-structs\obj\Debug\aprendendo-structs.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\Nova pasta\aprendendo-structs\obj\Debug\aprendendo-structs.pdb
