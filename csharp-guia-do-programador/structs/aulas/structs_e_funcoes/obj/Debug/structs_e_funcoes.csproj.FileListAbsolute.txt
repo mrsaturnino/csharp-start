@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\structs_e_funcoes\bin\Debug\structs_e_funcoes.exe.config
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\structs_e_funcoes\bin\Debug\structs_e_funcoes.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\structs_e_funcoes\bin\Debug\structs_e_funcoes.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\structs_e_funcoes\obj\Debug\structs_e_funcoes.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\structs_e_funcoes\obj\Debug\structs_e_funcoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\structs_e_funcoes\obj\Debug\structs_e_funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\structs_e_funcoes\obj\Debug\structs_e_funcoes.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\structs\aulas\structs_e_funcoes\obj\Debug\structs_e_funcoes.pdb
