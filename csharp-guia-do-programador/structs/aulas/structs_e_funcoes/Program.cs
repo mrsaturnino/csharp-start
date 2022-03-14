@@ -29,6 +29,7 @@ namespace structs_e_funcoes
                 Console.WriteLine($"Preço: R$ {this.preco}");
                 Console.WriteLine($"Marca: {this.marca}");
                 AdicionarCupom(50f);
+                //Podemos utilizar a função "AdicionarCupom" dentro da função "ExibirInfo"
             }
 
             public void AdicionarCupom(float porc)
@@ -50,10 +51,10 @@ namespace structs_e_funcoes
             chuteira.ExibirInfo();
 
             /*
-               1º) Adicionamos ao construtor as variáveis bola e chuteira, e seus valores relativos aos parâmetros do construtor.
-                2º) O construtor capta e "joga" estas variáveis e seus valores para dentro dos campos/atributos da 
+               1º) Adicionamos ao construtor as variáveis bola e chuteira, e seus valores relativos aos parâmetros do construtor. ( string nome, float preco, string marca)
+                2º) O construtor capta através do "new Produto()" e "joga" estas variáveis e seus valores para dentro dos campos/atributos da 
                     struct Produto.
-                 3º) Por fim, a função "ExibirInfo" pega estes valores e os utiliza conforme os comandos.
+                 3º) Por fim, a função "ExibirInfo" pega estes valores e os utiliza conforme os comandos escritos.
             */
             Console.WriteLine("================");
             bola.AdicionarCupom(50f);
