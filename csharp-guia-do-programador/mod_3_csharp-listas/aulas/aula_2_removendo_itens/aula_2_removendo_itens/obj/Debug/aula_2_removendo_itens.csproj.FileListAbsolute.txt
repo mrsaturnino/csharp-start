@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_2_removendo_itens\aula_2_removendo_itens\bin\Debug\aula_2_removendo_itens.exe.config
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_2_removendo_itens\aula_2_removendo_itens\bin\Debug\aula_2_removendo_itens.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_2_removendo_itens\aula_2_removendo_itens\bin\Debug\aula_2_removendo_itens.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_2_removendo_itens\aula_2_removendo_itens\obj\Debug\aula_2_removendo_itens.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_2_removendo_itens\aula_2_removendo_itens\obj\Debug\aula_2_removendo_itens.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_2_removendo_itens\aula_2_removendo_itens\obj\Debug\aula_2_removendo_itens.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_2_removendo_itens\aula_2_removendo_itens\obj\Debug\aula_2_removendo_itens.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_2_removendo_itens\aula_2_removendo_itens\obj\Debug\aula_2_removendo_itens.pdb

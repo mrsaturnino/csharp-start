@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_1_criandoListas\aula_1_criando_listas_e_null\bin\Debug\aula_1_criando_listas_e_null.exe.config
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_1_criandoListas\aula_1_criando_listas_e_null\bin\Debug\aula_1_criando_listas_e_null.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_1_criandoListas\aula_1_criando_listas_e_null\bin\Debug\aula_1_criando_listas_e_null.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_1_criandoListas\aula_1_criando_listas_e_null\obj\Debug\aula_1_criando_listas_e_null.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_1_criandoListas\aula_1_criando_listas_e_null\obj\Debug\aula_1_criando_listas_e_null.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_1_criandoListas\aula_1_criando_listas_e_null\obj\Debug\aula_1_criando_listas_e_null.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_1_criandoListas\aula_1_criando_listas_e_null\obj\Debug\aula_1_criando_listas_e_null.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_1_criandoListas\aula_1_criando_listas_e_null\obj\Debug\aula_1_criando_listas_e_null.pdb
