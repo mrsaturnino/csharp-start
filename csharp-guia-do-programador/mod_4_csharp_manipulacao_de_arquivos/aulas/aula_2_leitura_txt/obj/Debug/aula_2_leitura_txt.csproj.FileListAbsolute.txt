@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_2_leitura_txt\bin\Debug\aula_2_leitura_txt.exe.config
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_2_leitura_txt\bin\Debug\aula_2_leitura_txt.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_2_leitura_txt\bin\Debug\aula_2_leitura_txt.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_2_leitura_txt\obj\Debug\aula_2_leitura_txt.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_2_leitura_txt\obj\Debug\aula_2_leitura_txt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_2_leitura_txt\obj\Debug\aula_2_leitura_txt.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_2_leitura_txt\obj\Debug\aula_2_leitura_txt.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_2_leitura_txt\obj\Debug\aula_2_leitura_txt.pdb
