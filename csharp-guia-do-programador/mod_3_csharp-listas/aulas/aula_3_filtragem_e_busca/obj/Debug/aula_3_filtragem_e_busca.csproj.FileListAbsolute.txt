@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_3_filtragem_e_busca\bin\Debug\aula_3_filtragem_e_busca.exe.config
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_3_filtragem_e_busca\bin\Debug\aula_3_filtragem_e_busca.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_3_filtragem_e_busca\bin\Debug\aula_3_filtragem_e_busca.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_3_filtragem_e_busca\obj\Debug\aula_3_filtragem_e_busca.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_3_filtragem_e_busca\obj\Debug\aula_3_filtragem_e_busca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_3_filtragem_e_busca\obj\Debug\aula_3_filtragem_e_busca.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_3_filtragem_e_busca\obj\Debug\aula_3_filtragem_e_busca.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_3_csharp-listas\aulas\aula_3_filtragem_e_busca\obj\Debug\aula_3_filtragem_e_busca.pdb
