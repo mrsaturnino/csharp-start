@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_4_leitura_binn\bin\Debug\aula_4_leitura_binn.exe.config
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_4_leitura_binn\bin\Debug\aula_4_leitura_binn.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_4_leitura_binn\bin\Debug\aula_4_leitura_binn.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_4_leitura_binn\obj\Debug\aula_4_leitura_binn.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_4_leitura_binn\obj\Debug\aula_4_leitura_binn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_4_leitura_binn\obj\Debug\aula_4_leitura_binn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_4_leitura_binn\obj\Debug\aula_4_leitura_binn.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_4_leitura_binn\obj\Debug\aula_4_leitura_binn.pdb
