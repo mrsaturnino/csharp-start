@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_3_escrita_bin\bin\Debug\aula_3_escrita_bin.exe.config
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_3_escrita_bin\bin\Debug\aula_3_escrita_bin.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_3_escrita_bin\bin\Debug\aula_3_escrita_bin.pdb
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_3_escrita_bin\obj\Debug\aula_3_escrita_bin.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_3_escrita_bin\obj\Debug\aula_3_escrita_bin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_3_escrita_bin\obj\Debug\aula_3_escrita_bin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_3_escrita_bin\obj\Debug\aula_3_escrita_bin.exe
+C:\Users\Administrator\Documents\cursos\csharp\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\aulas\aula_3_escrita_bin\obj\Debug\aula_3_escrita_bin.pdb
