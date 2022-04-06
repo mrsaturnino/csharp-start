@@ -1,0 +1,8 @@
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\projeto02\projeto_gestao_cmd\bin\Debug\projeto_gestao_cmd.exe.config
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\projeto02\projeto_gestao_cmd\bin\Debug\projeto_gestao_cmd.exe
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\projeto02\projeto_gestao_cmd\bin\Debug\projeto_gestao_cmd.pdb
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\projeto02\projeto_gestao_cmd\obj\Debug\projeto_gestao_cmd.csproj.AssemblyReference.cache
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\projeto02\projeto_gestao_cmd\obj\Debug\projeto_gestao_cmd.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\projeto02\projeto_gestao_cmd\obj\Debug\projeto_gestao_cmd.csproj.CoreCompileInputs.cache
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\projeto02\projeto_gestao_cmd\obj\Debug\projeto_gestao_cmd.exe
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_4_csharp_manipulacao_de_arquivos\projeto02\projeto_gestao_cmd\obj\Debug\projeto_gestao_cmd.pdb
