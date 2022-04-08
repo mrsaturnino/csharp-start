@@ -34,8 +34,10 @@ namespace projeto_gestao_cmd
                 switch (opcao)
                 {
                     case Menu.Adicionar:
+                        Adicionar();
                         break;
                     case Menu.Listagem:
+                        Listagem();
                         break;
                     case Menu.Remover:
                         break;
@@ -45,6 +47,51 @@ namespace projeto_gestao_cmd
                 }
                 Console.Clear();
             }
+        }
+
+        static void Adicionar()
+        {
+            Cliente cliente = new Cliente();
+            Console.WriteLine("Cadastro de cliente: ");
+            Console.WriteLine("Nome do cliente: ");
+            cliente.nome = Console.ReadLine();
+            Console.WriteLine("Email do cliente: ");
+            cliente.email = Console.ReadLine();
+            Console.WriteLine("CPF do cliente: ");
+            cliente.cpf = Console.ReadLine();
+            
+            clienteList.Add(cliente);
+            
+            Console.WriteLine("Cadastro concluído, aperte 'Enter' para sair.");
+            Console.ReadLine();
+
+        }
+
+        static void Listagem()
+        {
+            if(clienteList.Count > 0) //Leia-se: SE tem pelo menos 1 (um) cliente nessa lista, execute a função abaixo.
+            {
+                Console.WriteLine("Lista de clientes: ");
+
+                int i = 0; //contador para alimentar o ID a cada cliente cadastrado.
+
+                foreach (Cliente cliente in clienteList)
+                {
+                    Console.WriteLine($"ID: {i}");
+                    Console.WriteLine($"Nome: {cliente.nome}");
+                    Console.WriteLine($"E-mail: {cliente.email}");
+                    Console.WriteLine($"CPF: {cliente.cpf}");
+                    Console.WriteLine("===========================");
+                    i++; //incremento do contador do ID.
+                }
+            }
+            else 
+            {
+                Console.WriteLine("Nenhum cliente cadastrado!");
+            }
+
+            Console.WriteLine("Aperte 'Enter' para sair.");
+            Console.ReadLine();
         }
     }
 }
