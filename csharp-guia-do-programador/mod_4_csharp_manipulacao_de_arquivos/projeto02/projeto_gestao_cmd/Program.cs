@@ -27,14 +27,15 @@ namespace projeto_gestao_cmd
 
         static void Main(string[] args)
         {
-            Carregar();
+            Carregar(); //a função é chamada aqui para que o arquivo seja carregado com os dados já salvos anteriormente.
 
             bool escolheuSair = false;
 
             while (!escolheuSair)
             {
-                Console.WriteLine("Sistema de Clientes");
-                Console.WriteLine("1 - Listagem\n2 - Adicionar\n3 - Remover\n4 - Sair");
+                Console.WriteLine("[ SISTEMA DE CLIENTES ]");
+                Console.WriteLine();
+                Console.WriteLine(" 1 - Listagem\n 2 - Adicionar\n 3 - Remover\n 4 - Sair");
                 int intOpcao = int.Parse(Console.ReadLine());
                 Menu opcao = (Menu)intOpcao; //Casting para que o número digitado pelo usuário se transforme em uma opção do menu.
 
@@ -47,6 +48,7 @@ namespace projeto_gestao_cmd
                         Listagem();
                         break;
                     case Menu.Remover:
+                        Remover();
                         break;
                     case Menu.Sair:
                         escolheuSair = true;
@@ -59,16 +61,17 @@ namespace projeto_gestao_cmd
             static void Adicionar()
             {
                 Cliente cliente = new Cliente();
-                Console.WriteLine("Cadastro de cliente: ");
-                Console.WriteLine("Nome do cliente: ");
+                Console.WriteLine(" [CADASTRO DE CLIENTES] ");
+                Console.WriteLine(" Nome do cliente: ");
                 cliente.nome = Console.ReadLine();
-                Console.WriteLine("Email do cliente: ");
+                Console.WriteLine(" Email do cliente: ");
                 cliente.email = Console.ReadLine();
-                Console.WriteLine("CPF do cliente: ");
+                Console.WriteLine(" CPF do cliente: ");
                 cliente.cpf = Console.ReadLine();
             
                 clienteList.Add(cliente);
                 Salvar();
+                Console.WriteLine("Cliente registrado com sucesso!");
             
                 Console.WriteLine("Cadastro concluído, aperte 'Enter' para sair.");
                 Console.ReadLine();
@@ -79,16 +82,16 @@ namespace projeto_gestao_cmd
             {
                 if(clienteList.Count > 0) //Leia-se: SE tem pelo menos 1 (um) cliente nessa lista, execute a função abaixo.
                 {
-                    Console.WriteLine("Lista de clientes: ");
+                    Console.WriteLine(" [ LISTA DE CLIENTES ] ");
 
                     int i = 0; //contador para alimentar o ID a cada cliente cadastrado.
 
                     foreach (Cliente cliente in clienteList)
                     {
-                        Console.WriteLine($"ID: {i}");
-                        Console.WriteLine($"Nome: {cliente.nome}");
-                        Console.WriteLine($"E-mail: {cliente.email}");
-                        Console.WriteLine($"CPF: {cliente.cpf}");
+                        Console.WriteLine($" ID: {i}");
+                        Console.WriteLine($" Nome: {cliente.nome}");
+                        Console.WriteLine($" E-mail: {cliente.email}");
+                        Console.WriteLine($" CPF: {cliente.cpf}");
                         Console.WriteLine("===========================");
                         i++; //incremento do contador do ID.
                     }
@@ -102,6 +105,26 @@ namespace projeto_gestao_cmd
                 Console.ReadLine();
             }
 
+            static void Remover()
+            {
+                Listagem();
+                Console.WriteLine("Digite o ID do cliente que você quer remover: ");
+                int id = int.Parse(Console.ReadLine());
+                //validação do usuário
+                if(id >= 0 && id < clienteList.Count) //o ID não pode ser um número maior que o número de clientes.
+                {
+
+                    clienteList.RemoveAt(id);
+                    Salvar();
+
+                }
+                else
+                {
+                    Console.WriteLine("ID inválido, tente novamente.");
+                    Console.ReadLine();
+                }
+            }
+            
             static void Salvar() //função para salvar os clientes listados no arquivo no HD.
             {
                 FileStream stream = new FileStream("clients.dat",FileMode.OpenOrCreate); 
@@ -116,10 +139,12 @@ namespace projeto_gestao_cmd
 
             static void Carregar()
             {
+                FileStream stream = new FileStream("clients.dat",FileMode.OpenOrCreate); 
+                
                 try /*A estrutura "try-catch" serve para, no try, executarmos um bloco de código, de forma que se houver algum
                     erro, o programa não será parado.*/
                 {
-                    FileStream stream = new FileStream("clients.dat",FileMode.OpenOrCreate); 
+                    
                     BinaryFormatter encoder = new BinaryFormatter();
                 
                 
@@ -130,7 +155,7 @@ namespace projeto_gestao_cmd
                         clienteList = new List<Cliente>();
                     }
 
-                    stream.Close();
+                    
                 }
                 catch(Exception e) /*O erro visto no "try" será jogado aqui, no catch, para que tratemos dessa exceção.*/
                 {
@@ -139,6 +164,8 @@ namespace projeto_gestao_cmd
                 //caso haja algum erro jogado no catch, será criada uma nova lista para a var clienteList.
 
                 }
+                
+                stream.Close();
             }
         }
     }
