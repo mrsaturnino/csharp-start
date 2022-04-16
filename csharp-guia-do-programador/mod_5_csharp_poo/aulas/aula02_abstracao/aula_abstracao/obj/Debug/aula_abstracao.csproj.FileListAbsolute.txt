@@ -1,0 +1,8 @@
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula02_abstracao\aula_abstracao\bin\Debug\aula_abstracao.exe.config
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula02_abstracao\aula_abstracao\bin\Debug\aula_abstracao.exe
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula02_abstracao\aula_abstracao\bin\Debug\aula_abstracao.pdb
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula02_abstracao\aula_abstracao\obj\Debug\aula_abstracao.csproj.AssemblyReference.cache
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula02_abstracao\aula_abstracao\obj\Debug\aula_abstracao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula02_abstracao\aula_abstracao\obj\Debug\aula_abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula02_abstracao\aula_abstracao\obj\Debug\aula_abstracao.exe
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula02_abstracao\aula_abstracao\obj\Debug\aula_abstracao.pdb
