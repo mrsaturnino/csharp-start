@@ -1,0 +1,8 @@
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula03_classes\bin\Debug\aula03_classes.exe.config
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula03_classes\bin\Debug\aula03_classes.exe
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula03_classes\bin\Debug\aula03_classes.pdb
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula03_classes\obj\Debug\aula03_classes.csproj.AssemblyReference.cache
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula03_classes\obj\Debug\aula03_classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula03_classes\obj\Debug\aula03_classes.csproj.CoreCompileInputs.cache
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula03_classes\obj\Debug\aula03_classes.exe
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula03_classes\obj\Debug\aula03_classes.pdb
