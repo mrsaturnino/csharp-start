@@ -1,0 +1,8 @@
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula05_heranca\aula05_heranca\bin\Debug\aula05_heranca.exe.config
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula05_heranca\aula05_heranca\bin\Debug\aula05_heranca.exe
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula05_heranca\aula05_heranca\bin\Debug\aula05_heranca.pdb
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula05_heranca\aula05_heranca\obj\Debug\aula05_heranca.csproj.AssemblyReference.cache
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula05_heranca\aula05_heranca\obj\Debug\aula05_heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula05_heranca\aula05_heranca\obj\Debug\aula05_heranca.csproj.CoreCompileInputs.cache
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula05_heranca\aula05_heranca\obj\Debug\aula05_heranca.exe
+C:\Users\Saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula05_heranca\aula05_heranca\obj\Debug\aula05_heranca.pdb
