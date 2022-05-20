@@ -12,6 +12,13 @@ namespace aula05_heranca
         public string email;
         public string senha;
 
+        public Usuario(string nome, string email, string senha)
+        {
+            this.nome = nome;
+            this.email = email;
+            this.senha = senha;
+        }
+
         public void Logar()
         {
             Console.WriteLine("Logando...");

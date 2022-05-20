@@ -10,12 +10,7 @@ namespace aula05_heranca
     {
         static void Main(string[] args)
         {
-            Aluno a = new Aluno();
-
-            a.nome = "André";
-            a.email = "mrsaturnino@...";
-            a.senha = "123456";
-            a.turno = "Vespertino";
+            Aluno a = new Aluno("Matutino", "Andre", "mrsaturnino@outmail.com", "123456");
             
             a.Logar();
 
@@ -23,11 +18,8 @@ namespace aula05_heranca
 
             Console.WriteLine("=========================================================");
 
-            Professor b = new Professor();
+            Professor b = new Professor("Bill", "bill@hotmail.com", "465465456");
 
-            b.nome = "Bill";
-            b.email = "bill@hotmail.com";
-            b.senha = "5646556";
             b.Logar();
 
             b.Exibir();

@@ -10,5 +10,10 @@ namespace aula05_heranca
     {
         public string[] turmas = {};
         public string[] disciplinas = {};
+
+        public Professor(string nome, string email, string senha) : base(nome, email, senha)
+        {
+            
+        }
     }
 }
