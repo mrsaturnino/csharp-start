@@ -1,0 +1,8 @@
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula06_polimorfismo\aula06_polimorfismo\bin\Debug\aula06_polimorfismo.exe.config
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula06_polimorfismo\aula06_polimorfismo\bin\Debug\aula06_polimorfismo.exe
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula06_polimorfismo\aula06_polimorfismo\bin\Debug\aula06_polimorfismo.pdb
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula06_polimorfismo\aula06_polimorfismo\obj\Debug\aula06_polimorfismo.csproj.AssemblyReference.cache
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula06_polimorfismo\aula06_polimorfismo\obj\Debug\aula06_polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula06_polimorfismo\aula06_polimorfismo\obj\Debug\aula06_polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula06_polimorfismo\aula06_polimorfismo\obj\Debug\aula06_polimorfismo.exe
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula06_polimorfismo\aula06_polimorfismo\obj\Debug\aula06_polimorfismo.pdb
