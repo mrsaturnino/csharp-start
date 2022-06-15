@@ -1,0 +1,8 @@
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula_static2\bin\Debug\aula_static2.exe.config
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula_static2\bin\Debug\aula_static2.exe
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula_static2\bin\Debug\aula_static2.pdb
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula_static2\obj\Debug\aula_static2.csproj.AssemblyReference.cache
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula_static2\obj\Debug\aula_static2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula_static2\obj\Debug\aula_static2.csproj.CoreCompileInputs.cache
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula_static2\obj\Debug\aula_static2.exe
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula_static2\obj\Debug\aula_static2.pdb
