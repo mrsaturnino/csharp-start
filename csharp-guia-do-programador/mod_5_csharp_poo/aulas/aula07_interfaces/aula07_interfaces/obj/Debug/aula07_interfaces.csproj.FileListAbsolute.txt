@@ -1,0 +1,8 @@
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula07_interfaces\aula07_interfaces\bin\Debug\aula07_interfaces.exe.config
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula07_interfaces\aula07_interfaces\bin\Debug\aula07_interfaces.exe
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula07_interfaces\aula07_interfaces\bin\Debug\aula07_interfaces.pdb
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula07_interfaces\aula07_interfaces\obj\Debug\aula07_interfaces.csproj.AssemblyReference.cache
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula07_interfaces\aula07_interfaces\obj\Debug\aula07_interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula07_interfaces\aula07_interfaces\obj\Debug\aula07_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula07_interfaces\aula07_interfaces\obj\Debug\aula07_interfaces.exe
+C:\Users\mrsaturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula07_interfaces\aula07_interfaces\obj\Debug\aula07_interfaces.pdb
