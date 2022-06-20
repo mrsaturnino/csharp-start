@@ -1,0 +1,8 @@
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula09_struct_class\bin\Debug\aula09_struct_class.exe.config
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula09_struct_class\bin\Debug\aula09_struct_class.exe
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula09_struct_class\bin\Debug\aula09_struct_class.pdb
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula09_struct_class\obj\Debug\aula09_struct_class.csproj.AssemblyReference.cache
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula09_struct_class\obj\Debug\aula09_struct_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula09_struct_class\obj\Debug\aula09_struct_class.csproj.CoreCompileInputs.cache
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula09_struct_class\obj\Debug\aula09_struct_class.exe
+C:\Users\andre.saturnino\Documents\GitHub\csharp-start\csharp-guia-do-programador\mod_5_csharp_poo\aulas\aula09_struct_class\obj\Debug\aula09_struct_class.pdb
